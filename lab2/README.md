@@ -4,3 +4,5 @@
 ![Image alt](1.png)
 ![Image alt](1-1.png)
 ![Image alt](1-2.png)
+##### 3. Встановив бібліотеки requests та ntplib.
+![Image alt](2.png)
