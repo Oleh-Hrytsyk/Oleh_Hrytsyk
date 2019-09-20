@@ -12,3 +12,5 @@
 ![Image alt](images/4.png)
 ##### 6. Встановив бібліотеку pytest
 ![Image alt](images/5.png)
+##### 7. Виконав тести, вони виконались успішно
+![Image alt](images/6.png)
