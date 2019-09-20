@@ -10,3 +10,5 @@
 ![Image alt](images/3.png)
 ##### 5. Перевірив чи програма працює наступною командою
 ![Image alt](images/4.png)
+##### 6. Встановив бібліотеку pytest
+![Image alt](images/5.png)
