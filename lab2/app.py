@@ -36,10 +36,10 @@ def home_work(dt):
 
 	if "AM" in dt:
 		print("Good day!")
-		return 'am'
+		return 'day'
 	elif "PM" in dt:
 		print("Good night!")
-		return 'pm'
+		return 'night'
 	else:
 		return 0
     	
