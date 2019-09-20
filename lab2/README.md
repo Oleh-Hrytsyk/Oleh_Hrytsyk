@@ -14,3 +14,5 @@
 ![Image alt](images/5.png)
 ##### 7. Виконав тести, вони виконались успішно
 ![Image alt](images/6.png)
+##### 8. Написав функцію яка перевіряє AM i PM в даті, у випадку AM виводить Good day! , А при PM - Good night!
+![Image alt](images/7.png)
