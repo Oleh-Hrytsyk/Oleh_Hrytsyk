@@ -9,3 +9,5 @@
 ##### 7-10. Заповнив та відредагував файли main.html, urls.py, views.py. Після цього запустив сервер. Результат:
 ![Image alt](screenshots/7-10.png)
 ![Image alt](screenshots/7-10(1).png)
+##### 11. Встановив біблиотеку requests командою pipenv install requests
+
