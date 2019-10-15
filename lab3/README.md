@@ -10,4 +10,5 @@
 ![Image alt](screenshots/7-10.png)
 ![Image alt](screenshots/7-10(1).png)
 ##### 11. Встановив біблиотеку requests командою pipenv install requests
+##### 12-14. Модифікував функцію health, дописав функционал, зациклив main, створив аліас, закомітив server.logs.
 
