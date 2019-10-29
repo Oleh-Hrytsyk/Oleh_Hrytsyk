@@ -2,6 +2,6 @@
 
 ##### 1-2. Перевірив роботу докера та перенаправив вивід тексту з консолі в my_work.log.
 ##### 3-4. Створив Імедж, створив Dockerfile та скопіював туда текст змінивши поилання.
-##### 5-6. Створів власний репозиторій на докер [ось тут](https://cloud.docker.com/repository/docker/hrytsyk/lab4_repos/general) та виконав білд імеджа django.
+##### 5-6. Створів власний репозиторій на докер [ось тут](https://hub.docker.com/r/hrytsyk/lab4_repos/tags) та виконав білд імеджа django.
 ![image alert](img/5-6.png)
 
