@@ -6,3 +6,4 @@
 ![image alert](img/5-6.png)
 ##### 7. Переконався що сайт працює.
 ![image alert](img/7.png)
+##### 8. Створив Dockerfile.monitoring, створив новий тег, витягнув server.log
