@@ -2,7 +2,7 @@
 
 ##### 1-5. Прочитав про docker-compose, бібліотеку Flask, створив папку my_app та tests і скопіював туди файли.
 ##### 6. Ініціював середовище для програми та тестів командами 
-pipenv --python 3.7
-pipenv install -r requirements.txt
+###### pipenv --python 3.7
+###### pipenv install -r requirements.txt
 ##### та переконався що все працює
 
