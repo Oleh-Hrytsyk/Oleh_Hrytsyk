@@ -11,4 +11,12 @@
 ##### - .PHONY: $(STATES) несправжні цілі
 ##### - run виконує команди
 ##### - docker-prune очищує ресурси
-
+##### 9. запустив команди sudo make app та sudo make tests, після чого запустив команду sudo make run і відкрив нове вікно терміналу де запустив команду sudo make test-app
+##### результати виконання команд
+![image alt](img/4.png)
+![image alt](img/5.png)
+##### сторінки браузера
+![image alt](img/1.png)
+![image alt](img/2.png)
+![image alt](img/3.png)
+##### 10-12. зупинив проект, почистив все командою sudo make docker-prune та додав директиви в  makefile
