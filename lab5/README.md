@@ -5,4 +5,10 @@
 pipenv --python 3.7
 pipenv install -r requirements.txt
 ##### та переконався що все працює
+##### 7-8. Створив два Dockerfile та Makefile, в якому директиви виконують наступні дії
+##### - STATES := app tests змінні яким динамічно присвоюються значення
+##### - REPO := tarasshynkler/firstrepos:lab5 репозиторій на Docker Hub
+##### - .PHONY: $(STATES) несправжні цілі
+##### - run виконує команди
+##### - docker-prune очищує ресурси
 
