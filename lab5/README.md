@@ -20,3 +20,6 @@
 ![image alt](img/2.png)
 ![image alt](img/3.png)
 ##### 10-12. зупинив проект, почистив все командою sudo make docker-prune та додав директиви в  makefile
+##### 13. Створив docker-compose.yml та заповнив його згідно зразку в основному репозиторію.
+##### 14-15. Docker-compose встановлений та працює, далі запустив docker-compose командою docker-compose -p lab5 up. Веб сайт працює але потрібно перейти на адресу 0.0.0.0:80
+![image alt](img/6.png)
