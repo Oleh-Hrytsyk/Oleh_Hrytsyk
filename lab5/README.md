@@ -25,3 +25,4 @@
 ![image alt](img/6.png)
 ##### 16. Імеджі:
 ![image alt](img/7.png)
+##### 17-19. Зупинив процес, завантажив створені імеджі на docker hub командою docker-compose push. Для дій з системою краще використовувати Makefile, для дій пов'язаних з Docker краще docker-compose.yml
